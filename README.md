@@ -2,17 +2,17 @@
 
 ## 📌 Descripción del proyecto
 
-Este proyecto analiza cómo diferentes factores como la **ocupación**, el **género**, el **tiempo** y la **causa de muerte** influyen en la **edad de fallecimiento** de personas famosas e históricamente relevantes.
+Este proyecto analiza cómo diferentes factores como la **ocupación**, el **género**, el **periodo histórico** y la **causa de muerte** influyen en la **edad de fallecimiento** de personas famosas y figuras históricamente relevantes.
 
-Se construyó un **dashboard interactivo en Power BI** a partir de un conjunto de datos real de **1.22 millones de registros de personas** del cual usamos una cantidad de 45.930, enfocado en personas fallecidas entre **1800 y 2020**.
+Se desarrolló un **dashboard interactivo en Power BI** utilizando un conjunto de datos real que contiene **1.22 millones de personas**. Para el análisis se trabajó con un subconjunto de **45.930 registros**, correspondiente a personas fallecidas entre los años **1800 y 2020**, lo que permitió obtener resultados comparables y confiables.
 
-El objetivo es responder si existen diferencias significativas en la edad de fallecimiento según distintos grupos.
+El objetivo principal es identificar si existen diferencias significativas en la edad de fallecimiento según distintas variables.
 
 ---
 
 ## 🎯 Problemática
 
-**¿Existen diferencias significativas en la edad de fallecimiento de personas famosas según su ocupación, género y causa de muerte en los últimos dos siglos?**
+**¿Existen diferencias significativas en la edad de fallecimiento de personas famosas según su ocupación, género y causa de muerte entre los años 1800 y 2020?**
 
 ---
 
