@@ -28,19 +28,26 @@ El objetivo principal es identificar si existen diferencias significativas en la
 ## 🗂 Conjunto de datos
 
 **Fuente:** Kaggle – *Age Dataset: Life, Work, and Death of 1.22M People*
+https://www.kaggle.com/datasets/isaac09/age-dataset-life-work-and-death-of-1-22m-people
 
-Contiene información estructurada sobre más de **1.2 millones de personas famosas o históricamente relevantes**, incluyendo:
+El dataset contiene información estructurada sobre **1.22 millones de personas famosas o históricamente relevantes** que ya han fallecido, incluyendo datos sobre su vida, profesión y fallecimiento.
 
-- Nombre  
-- Género  
-- Ocupación  
-- País  
-- Año de nacimiento  
-- Año de fallecimiento  
-- Edad al fallecer  
-- Causa de muerte  
+Fue construido a partir de información de **Wikidata y Wikipedia en múltiples idiomas**, lo que permite analizar patrones históricos de mortalidad en diferentes contextos sociales y profesionales.
 
-Para este análisis se utilizaron **45,930 registros** luego de aplicar filtros de calidad.
+## 🗂 Columnas del dataset
+
+El archivo original contiene 10 columnas, entre ellas: **Id, Name, Gender, Country, Occupation, Birth year, Death year, Manner of death y Age of death**.
+
+Para este proyecto se utilizaron únicamente las siguientes variables necesarias para el análisis:
+
+- Id
+- Gender
+- Occupation
+- Death year
+- Manner of death
+- Age of death
+
+Aunque el dataset original incluye **1.22 millones de personas**, tras aplicar filtros de calidad y periodo histórico se trabajó con **45,930 registros** correspondientes a personas fallecidas entre **1800 y 2020**, lo que permitió un análisis más consistente y comparable.
 
 ---
 
