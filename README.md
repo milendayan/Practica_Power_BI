@@ -94,3 +94,45 @@ IF([Death year] < 2000, "1950–1999", "2000–2020")))
 Esta transformación permitió analizar la evolución de la edad de fallecimiento a lo largo del tiempo.
 
 ## 📐 Medidas DAX
+
+```DAX
+Edad Promedio al Fallecimiento = 
+AVERAGE('AgeDataset-V1'[Age of death])
+
+Muertes Totales = 
+COUNT('AgeDataset-V1'[Id])
+
+Edad 1800 = 
+CALCULATE([Edad Promedio al Fallecimiento], 'AgeDataset-V1'[Periodo] = "1800–1899")
+
+Edad 2000 = 
+CALCULATE([Edad Promedio al Fallecimiento], 'AgeDataset-V1'[Periodo] = "2000–2020")
+
+Diferencia Edad = 
+[Edad 2000] - [Edad 1800]
+```
+
+---
+
+## 📊 Visualizaciones del dashboard
+
+### 1️⃣ Edad promedio por ocupación
+- Gráfico de barras
+- Permite identificar qué profesiones viven más o menos en promedio.
+
+### 2️⃣ Evolución de la edad de fallecimiento
+- Gráfico de líneas por periodo
+- Muestra cómo la edad promedio ha aumentado con el tiempo.
+
+### 3️⃣ Edad promedio según género
+- Gráfico de columnas
+- Compara hombres, mujeres y otros géneros.
+
+### 4️⃣ Causa de muerte por ocupación
+- Gráfico de barras
+- Permite ver cómo cambia la causa de muerte según el tipo de profesión.
+
+### 5️⃣ KPIs
+- Edad promedio global
+- Diferencia entre 1800–1899 y 2000–2020
+- Causa de muerte más frecuente
