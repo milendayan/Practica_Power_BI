@@ -156,7 +156,7 @@ Mide cuánto ha cambiado la edad promedio de fallecimiento entre el siglo XIX y 
 
 ## 📌 Resultados clave
 
-- La edad promedio de fallecimiento sí varía según la ocupación.
+- La edad promedio de fallecimiento sí varía según la ocupación
 - Existen diferencias claras por género, siendo las mujeres quienes presentan mayor edad promedio.
 - La edad de fallecimiento aumentó significativamente entre 1800 y 2020.
 - La ocupación influye en la causa de muerte, por ejemplo:
