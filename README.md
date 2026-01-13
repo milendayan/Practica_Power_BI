@@ -34,6 +34,8 @@ El dataset contiene información estructurada sobre **1.22 millones de personas 
 
 Fue construido a partir de información de **Wikidata y Wikipedia en múltiples idiomas**, lo que permite analizar patrones históricos de mortalidad en diferentes contextos sociales y profesionales.
 
+---
+
 ## 🗂 Columnas del dataset
 
 El archivo original contiene 10 columnas, entre ellas: **Id, Name, Gender, Country, Occupation, Birth year, Death year, Manner of death y Age of death**.
@@ -78,8 +80,6 @@ Se eliminaron las filas que contenían valores nulos en:
 - Occupation
   
 ya que estas variables eran fundamentales para responder las hipótesis del proyecto.
-
----
 
 ## 🧱 Columna calculada
 
