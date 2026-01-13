@@ -101,38 +101,30 @@ Para responder a la problemática del proyecto y analizar cómo varía la edad d
 Edad Promedio al Fallecimiento = 
 AVERAGE('AgeDataset-V1'[Age of death])
 ```
-### ¿Para qué sirve?
 Calcula la edad promedio a la que fallecen las personas dentro del conjunto de datos.
 
 ```DAX
 Muertes Totales = 
 COUNT('AgeDataset-V1'[Id])
 ```
-
-### ¿Para qué sirve?
 Cuenta cuántas personas (registros) están siendo analizadas. Permite saber el tamaño de la muestra.
 
 ```DAX
 Edad 1800 = 
 CALCULATE([Edad Promedio al Fallecimiento], 'AgeDataset-V1'[Periodo] = "1800–1899")
 ```
-
-### ¿Para qué sirve?
 Calcula la edad promedio al fallecer únicamente para las personas que murieron entre 1800 y 1899.
 
 ```DAX
 Edad 2000 = 
 CALCULATE([Edad Promedio al Fallecimiento], 'AgeDataset-V1'[Periodo] = "2000–2020")
 ```
-
-### ¿Para qué sirve?
 Calcula la edad promedio al fallecer para quienes murieron entre 2000 y 2020, representando la época más reciente del análisis.
 
 ```DAX
 Diferencia Edad = 
 [Edad 2000] - [Edad 1800]
 ```
-### ¿Para qué sirve?
 Mide cuánto ha cambiado la edad promedio de fallecimiento entre el siglo XIX y la época moderna.
 
 ---
