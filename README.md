@@ -53,25 +53,44 @@ Aunque el dataset original incluye **1.22 millones de personas**, tras aplicar f
 
 ## 🧹 Limpieza y preparación de datos
 
+Se realizaron los siguientes procesos de limpieza y transformación en Power BI (Power Query) para asegurar la calidad y consistencia de los datos analizados:
+
 ### 📅 Filtro temporal
 - `Death year ≥ 1800`
 - `Death year ≤ 2020`
 
-### 📏 Filtro de edad
-- `Age of death > 0`
-- `Age of death < 120`
+Esto permitió eliminar datos demasiado antiguos o fuera del periodo de estudio, así como valores anómalos que no eran comparables.
 
-### 🧩 Valores nulos
-- **Gender** → “Other”  
-- **Occupation** → “Other”  
-- **Manner of death** → “Unknown”  
+### 🧩 Eliminación de columnas innecesarias
+
+Para optimizar el modelo y enfocarlo en la problemática, se eliminaron las siguientes columnas que no eran relevantes para el análisis:
+
+- Country
+- Short description
+- Name
+- Birth year
+
+### 🚫 Tratamiento de valores nulos
+
+Se eliminaron las filas que contenían valores nulos en:
+
+- Gender 
+- Occupation
+  
+ya que estas variables eran fundamentales para responder las hipótesis del proyecto.
 
 ---
 
 ## 🧱 Columna calculada
+
+Se creó una columna llamada Periodo para agrupar los años de fallecimiento en bloques históricos, facilitando el análisis temporal:
 
 ```DAX
 Periodo =
 IF([Death year] < 1900, "1800–1899",
 IF([Death year] < 1950, "1900–1949",
 IF([Death year] < 2000, "1950–1999", "2000–2020")))
+```
+Esta transformación permitió analizar la evolución de la edad de fallecimiento a lo largo del tiempo.
+
+## 📐 Medidas DAX
