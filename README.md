@@ -162,3 +162,9 @@ Este proyecto refleja habilidades reales de:
 - Modelado de datos
 - Visualización
 - Pensamiento analítico
+
+## 🔗 Dashboard interactivo
+
+Haz clic en la imagen para ver el dashboard interactivo en Power BI:
+
+[![Dashboard Power BI](dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYThkOGI1MWMtNmE0Ni00ZTU3LWI4N2EtNWQ2NWE1ZmViMjgwIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
