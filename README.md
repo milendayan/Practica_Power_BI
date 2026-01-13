@@ -136,3 +136,29 @@ Diferencia Edad =
 - Edad promedio global
 - Diferencia entre 1800–1899 y 2000–2020
 - Causa de muerte más frecuente
+
+---
+
+## 📌 Resultados clave
+
+- La edad promedio de fallecimiento sí varía según la ocupación.
+- Existen diferencias claras por género, siendo las mujeres quienes presentan mayor edad promedio.
+- La edad de fallecimiento aumentó significativamente entre 1800 y 2020.
+- La ocupación influye en la causa de muerte, por ejemplo:
+-  Políticos muestran más homicidios.
+-  Artistas presentan mayor proporción de causas naturales.
+
+---
+
+## 🧠 Conclusiones
+
+Este análisis demuestra que factores sociales y profesionales tienen una relación directa con la longevidad (edad al fallecer) de las personas famosas.
+
+El uso de Power BI, junto con una correcta limpieza de datos y el uso de medidas DAX, permitió construir un dashboard interactivo que facilita la exploración de patrones históricos en más de dos siglos de datos.
+
+Este proyecto refleja habilidades reales de:
+
+- Análisis exploratorio
+- Modelado de datos
+- Visualización
+- Pensamiento analítico
