@@ -172,16 +172,13 @@ Algunas profesiones presentan patrones muy definidos. Por ejemplo, los Archivist
 
 ## 🧠 Conclusiones
 
-Este análisis demuestra que factores sociales y profesionales tienen una relación directa con la longevidad (edad al fallecer) de las personas famosas.
+El análisis realizado demuestra que la edad de fallecimiento de las personas famosas no es uniforme, sino que está influenciada por factores sociales, históricos y profesionales.
 
-El uso de Power BI, junto con una correcta limpieza de datos y el uso de medidas DAX, permitió construir un dashboard interactivo que facilita la exploración de patrones históricos en más de dos siglos de datos.
+Los resultados muestran que la ocupación y el género están relacionados con diferencias importantes en la edad promedio al morir, lo que evidencia desigualdades entre distintos grupos. Además, se observa que la edad de fallecimiento ha aumentado a lo largo del tiempo, reflejando mejoras en las condiciones de vida, la medicina y la sociedad en general.
 
-Este proyecto refleja habilidades reales de:
+Asimismo, la relación entre ocupación y causa de muerte indica que el contexto en el que se desarrollan las profesiones influye en los riesgos a los que están expuestas las personas.
 
-- Análisis exploratorio
-- Modelado de datos
-- Visualización
-- Pensamiento analítico
+En conjunto, este proyecto confirma que la longevidad no depende solo del individuo, sino también del entorno social, histórico y profesional, y demuestra cómo el uso de Power BI y análisis de datos permite descubrir patrones relevantes en grandes volúmenes de información histórica.
 
 ---
 
