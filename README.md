@@ -172,13 +172,13 @@ Algunas profesiones presentan patrones muy definidos. Por ejemplo, los Archivist
 
 ## 🧠 Conclusiones
 
-El análisis realizado demuestra que la edad de fallecimiento de las personas famosas no es uniforme, sino que está influenciada por factores sociales, históricos y profesionales.
+El análisis demuestra que la edad de fallecimiento de las personas famosas no es uniforme, sino que está influenciada por diferentes factores.
 
-Los resultados muestran que la ocupación y el género están relacionados con diferencias importantes en la edad promedio al morir, lo que evidencia desigualdades entre distintos grupos. Además, se observa que la edad de fallecimiento ha aumentado a lo largo del tiempo, reflejando mejoras en las condiciones de vida, la medicina y la sociedad en general.
+Los resultados muestran que la ocupación y el género están asociados a diferencias importantes en la edad promedio al morir, lo que evidencia desigualdades entre distintos grupos. Además, se observa que la edad de fallecimiento ha aumentado a lo largo del tiempo, reflejando mejoras en las condiciones de vida, la medicina y la sociedad en general.
 
 Asimismo, la relación entre ocupación y causa de muerte indica que el contexto en el que se desarrollan las profesiones influye en los riesgos a los que están expuestas las personas.
 
-En conjunto, este proyecto confirma que la longevidad no depende solo del individuo, sino también del entorno social, histórico y profesional, y demuestra cómo el uso de Power BI y análisis de datos permite descubrir patrones relevantes en grandes volúmenes de información histórica.
+En conjunto, este proyecto confirma que la edad de fallecimiento no depende únicamente del individuo, sino también de su entorno social, histórico y profesional, y demuestra cómo el uso de Power BI y el análisis de datos permiten identificar patrones relevantes en grandes volúmenes de información histórica.
 
 ---
 
