@@ -154,14 +154,19 @@ Mide cuánto ha cambiado la edad promedio de fallecimiento entre el siglo XIX y 
 
 ---
 
-## 📌 Resultados clave
+## 📊 Resultados clave
 
-- La edad promedio de fallecimiento sí varía según la ocupación
-- Existen diferencias claras por género, siendo las mujeres quienes presentan mayor edad promedio.
-- La edad de fallecimiento aumentó significativamente entre 1800 y 2020.
-- La ocupación influye en la causa de muerte, por ejemplo:
--  Políticos muestran más homicidios.
--  Artistas presentan mayor proporción de causas naturales.
+- La edad promedio de fallecimiento varía según la ocupación
+Se observan diferencias muy marcadas entre profesiones. Por ejemplo, ocupaciones como Social worker presentan una edad promedio cercana a los 98 años, mientras que otras como Servant of God tienen promedios alrededor de los 12 años. Esto evidencia que la profesión está asociada a patrones muy distintos de mortalidad y longevidad.
+
+- Existen diferencias relevantes por género
+El análisis muestra que las mujeres presentan una mayor edad promedio al fallecer. En contraste, las personas identificadas como transgénero femenino registran los valores más bajos, lo que sugiere desigualdades importantes en términos de mortalidad entre grupos de género.
+
+- La edad de fallecimiento aumentó significativamente con el tiempo
+Entre los periodos analizados se observa un incremento claro en la esperanza de vida. En el periodo 1800–1899 la edad promedio fue cercana a los 49 años, mientras que en el periodo 2000–2020 alcanzó aproximadamente los 67 años, reflejando mejoras en la salud, las condiciones de vida y los avances médicos.
+
+- La ocupación también influye en la causa de muerte
+Algunas profesiones presentan patrones muy definidos. Por ejemplo, los Archivists muestran una alta proporción de muertes por causas naturales, mientras que ocupaciones asociadas a contextos de violencia, como los Terrorists, presentan mayores tasas de homicidio y suicidio.
 
 ---
 
