@@ -183,4 +183,4 @@ Este proyecto refleja habilidades reales de:
 ## 🔗 Dashboard interactivo
 Haz clic en la imagen para ver el dashboard interactivo en Power BI:
 
-[![Dashboard Power BI](dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYThkOGI1MWMtNmE0Ni00ZTU3LWI4N2EtNWQ2NWE1ZmViMjgwIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
+[![Dashboard Power BI](dashboard.png)]([https://app.powerbi.com/view?r=eyJrIjoiYThkOGI1MWMtNmE0Ni00ZTU3LWI4N2EtNWQ2NWE1ZmViMjgwIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiYTU5YjA5NjktOTcwMy00ZjExLWJjNDItZGQ3ODU3Y2E5NWEzIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
